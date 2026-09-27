@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Free Wallpaper Terms of Use | junebuart</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff5fb;
+            color: #4a4050;
+            line-height: 1.7;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .container {
+            background: white;
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            color: #d47aaa;
+            text-align: center;
+        }
+
+        h2 {
+            color: #b96894;
+            margin-top: 30px;
+        }
+
+        .intro {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        .copyright {
+            margin-top: 35px;
+            padding-top: 20px;
+            border-top: 1px solid #eadce7;
+            text-align: center;
+            font-size: 0.9em;
+        }
+
+        a {
+            color: #c56796;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Free Wallpaper Terms of Use</h1>
+
+    <p class="intro">
+        Please read these terms before downloading or using any free wallpapers from junebuart.
+    </p>
+
+    <p>
+        By downloading or using this wallpaper, you agree to the following terms:
+    </p>
+
+    <h2>✓ You MAY</h2>
+
+    <ul>
+        <li>Use the wallpaper on your personal phone, tablet, or other personal device.</li>
+        <li>Use it as a personal lock screen or home screen.</li>
+        <li>Download and keep the file for your own personal use.</li>
+        <li>Share a link to the original page where the wallpaper was posted.</li>
+    </ul>
+
+    <h2>✕ You MAY NOT</h2>
+
+    <ul>
+        <li>Use the artwork for any commercial or promotional purpose.</li>
+        <li>Sell, resell, sublicense, or redistribute the wallpaper file.</li>
+        <li>Use the artwork on products, merchandise, prints, or other items intended for sale.</li>
+        <li>Use the artwork in advertisements, branding, promotional materials, or paid content.</li>
+        <li>Claim the artwork as your own.</li>
+        <li>Edit, trace, or alter the artwork and redistribute it as your own work.</li>
+        <li>Upload the wallpaper to wallpaper packs, stock-image websites, or other downloadable-content platforms.</li>
+        <li>Use the artwork for AI training, datasets, or AI-generated derivative works.</li>
+    </ul>
+
+    <h2>Copyright</h2>
+
+    <p>
+        The artwork remains the intellectual property of <strong>junebuart</strong>.
+        Downloading the wallpaper does not transfer ownership or copyright to you.
+    </p>
+
+    <p>
+        This wallpaper is provided <strong>free of charge for personal,
+        non-commercial use only.</strong>
+    </p>
+
+    <p>
+        If you would like to use the artwork commercially or for another purpose
+        not covered by these terms, please contact junebuart for permission.
+    </p>
+
+    <div class="copyright">
+        © junebuart — All Rights Reserved.
+    </div>
+
+</div>
+
+</body>
+</html>
